@@ -34,9 +34,6 @@ Git, GitHub, Postman, VSCode
 ### 📅 Currently Learning
 Next.js, Deployment.
 
-### 🌍 Let's Connect
-- [Portfolio CV (PDF)](https://github.com/BAHER1088)
-
 ---
 
 > “I write code like essays: clear, modular, and meant to be read.”
