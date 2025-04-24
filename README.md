@@ -24,18 +24,17 @@ React, Angular, TypeScript, JavaScript (ES6+), HTML5, SCSS, Bootstrap
 Node.js, Express.js, MongoDB, REST APIs
 
 **Tools:**  
-Git, GitHub, Docker, Postman, VSCode
+Git, GitHub, Postman, VSCode
 
 ### 💼 Experience Highlights
 - Refactored legacy Angular codebases to modern, modular components
-- Built RESTful APIs and improved response times by up to 35%
+- Built RESTful APIs and improved response times
 - Worked in Agile teams and contributed to feature shipping cycles
 
 ### 📅 Currently Learning
-Next.js, WebSockets, TypeORM, Deployment & CI/CD Pipelines
+Next.js, Deployment.
 
 ### 🌍 Let's Connect
-- [LinkedIn](https://linkedin.com/in/baher-hossam-276847254)
 - [Portfolio CV (PDF)](https://github.com/BAHER1088)
 
 ---
