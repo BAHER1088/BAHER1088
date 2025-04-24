@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi, I'm Baher Hossam 👋
 
-<!--
-**BAHER1088/BAHER1088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **full-stack web developer** and electronics engineering student with a focus on building clean, performant, and scalable web applications.
 
-Here are some ideas to get you started:
+- 🎓 Studying Electronics & Communications at Zagazig University
+- 🚀 Currently interning and contributing to real-world Angular and Node.js projects
+- 💡 Interested in frontend architecture, design systems, and backend optimization
+- 📊 I believe in writing code that scales and tells a story
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏗️ Projects
+
+#### [BTBank Angular](https://github.com/BAHER1088/BTBank-Angular)
+> A modern banking frontend built with Angular & Bootstrap. Integrated secure API services and transaction flows.
+
+#### [Fingerprint Attendance System](https://github.com/BAHER1088/Fingerprint-Attendance-System)
+> Biometric-based attendance system with dynamic Angular UI and Node.js backend integration.
+
+### 🚀 Tech Stack
+
+**Frontend:**  
+React, Angular, TypeScript, JavaScript (ES6+), HTML5, SCSS, Bootstrap
+
+**Backend:**  
+Node.js, Express.js, MongoDB, REST APIs
+
+**Tools:**  
+Git, GitHub, Docker, Postman, VSCode
+
+### 💼 Experience Highlights
+- Refactored legacy Angular codebases to modern, modular components
+- Built RESTful APIs and improved response times by up to 35%
+- Worked in Agile teams and contributed to feature shipping cycles
+
+### 📅 Currently Learning
+Next.js, WebSockets, TypeORM, Deployment & CI/CD Pipelines
+
+### 🌍 Let's Connect
+- [LinkedIn](https://linkedin.com/in/baher-hossam-276847254)
+- [Portfolio CV (PDF)](https://github.com/BAHER1088)
+
+---
+
+> “I write code like essays: clear, modular, and meant to be read.”
