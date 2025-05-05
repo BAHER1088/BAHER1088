@@ -22,8 +22,8 @@ Deployment.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=baher1088&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=baher1088&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=baher1088&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=baher1088&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
 
 
 ### 🏗️ Projects
