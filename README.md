@@ -28,7 +28,7 @@ Deployment.
 
 ### 🏗️ Projects
 
-#### [BTBank Angular](https://github.com/BAHER1088/BTBank-Angular)
+#### [BTBank Angular](https://github.com/SecureBANK2025/securebank)
 > A modern banking frontend built with Angular & Bootstrap. Integrated secure API services and transaction flows.
 
 #### [Fingerprint Attendance System](https://github.com/BAHER1088/Fingerprint-Attendance-System)
