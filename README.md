@@ -29,10 +29,16 @@ Deployment.
 ### 🏗️ Projects
 
 #### [BTBank Angular](https://github.com/SecureBANK2025/securebank)
-> A modern banking frontend built with Angular & Bootstrap. Integrated secure API services and transaction flows.
+> A modern banking frontend built with Angular, Bootstrap and Node.js. Integrated secure API services and transaction flows.
 
 #### [Fingerprint Attendance System](https://github.com/BAHER1088/Fingerprint-Attendance-System)
 > Biometric-based attendance system with dynamic Angular UI and Node.js backend integration.
+
+#### [E-Commerce](https://github.com/BAHER1088/E-commerce)
+> A full-stack e-commerce application built with Angular and Node.js.
+
+#### [Event booking web application](https://github.com/BAHER1088/event-booking-web-app)
+> A full-stack event booking application built with Angular, Bootstrap and Node.js.
 
 
 ## 🏆 GitHub Trophies
