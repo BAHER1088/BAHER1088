@@ -1,8 +1,10 @@
 ## Hi, I'm Baher Hossam 👋
 
+
+
 I'm a **full-stack web developer** and electronics engineering student with a focus on building clean, performant, and scalable web applications.
 
-🎓 Studying Electronics & Communications at Zagazig University<br>🚀 Currently interning and contributing to real-world Angular and Node.js projects<br>💡 Interested in frontend architecture, design systems, and backend optimization<br>📊 I believe in writing code that scales and tells a story
+📄 [**Download My CV**](https://drive.google.com/file/d/1QCIEB-IO4FjpKVkuL8fLG6D7NMYgjJkY/view?usp=sharing) — last updated May 2025<br>🎓 Studying Electronics & Communications at Zagazig University<br>🚀 Currently interning and contributing to real-world Angular and Node.js projects<br>💡 Interested in frontend architecture, design systems, and backend optimization<br>📊 I believe in writing code that scales and tells a story
 
 
 ## 🌐 Socials:
